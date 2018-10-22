@@ -19,7 +19,7 @@ I'm interested in how language varies across people, and how it changes over tim
 * Needle, J. M., Pierrehumbert, J. B., & Hay, J. B. (accepted). Shallow Morphological Processing in Pseudowords. _Proceedings of the 2017 workshop on Morphological Typology and Linguistic Cognition._
 * Needle, J. M., & Pierrehumbert, J. B. (2018). Gendered associations of English morphology. _Laboratory Phonology: Journal of the Association for Laboratory Phonology, 9_(1), 14. DOI: http://doi.org/10.5334/labphon.134
 * Rácz, P., Hay, J., Needle, J., King, J., & Pierrehumbert, J. B. (2016). Gradient Māori phonotactics. _Te Reo, 59,_ 3. ([Authors' PDF](http://www.phon.ox.ac.uk/jpierrehumbert/publications/gradient_maori_phonotactics_te_reo.pdf))
-* Goldrick, M., Keshet, J., Gustafson, E., Heller, J., & Needle, J. (2016). Automatic analysis of slips of the tongue: Insights into the cognitive architecture of speech production. _Cognition, 149_, 31-39.
+* Goldrick, M., Keshet, J., Gustafson, E., Heller, J., & Needle, J. (2016). Automatic analysis of slips of the tongue: Insights into the cognitive architecture of speech production. _Cognition, 149_, 31-39. DOI: https://doi.org/10.1016/j.cognition.2016.01.002
 
 ## CV
 * Post-Doctoral Fellow (New Zealand Institute of Language, Brain and Behaviour); _University of Canterbury_ (2018-)
