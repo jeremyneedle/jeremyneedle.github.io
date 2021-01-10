@@ -22,9 +22,10 @@ I am interested in how language changes over time and varies for individuals and
 * Goldrick, M., Keshet, J., Gustafson, E., Heller, J., & Needle, J. (2016). Automatic analysis of slips of the tongue: Insights into the cognitive architecture of speech production. _Cognition, 149_, 31-39. https://doi.org/10.1016/j.cognition.2016.01.002 ([Authors’ PDF](http://faculty.wcas.northwestern.edu/matt-goldrick/v2/publications/pdfs/autovot.pdf))
 
 ## Presentations  
-* J. Needle, S. Todd, J. King, & J. Hay. Overt speaker knowledge of reduplication patterns  in te reo Māori. LSA 2021 Annual Meeting.  
-* J. M. Needle & S. A. Tagliamonte. From buddy to dude to bro: Vocative change in Ontario English. North American Research Network in Historical Sociolinguistics (NARNiHS) 2021 Annual Meeting.  
 
+* J. M. Needle & S. A. Tagliamonte. From buddy to dude to bro: Vocative change in Ontario English. North American Research Network in Historical Sociolinguistics (NARNiHS) 2021 Annual Meeting.  
+* J. Needle, S. Todd, J. King, & J. Hay. Overt speaker knowledge of reduplication patterns  in te reo Māori. LSA 2021 Annual Meeting.  
+* S. Todd, J. Needle, J. King, & J. Hay. Phonological influences on lexicalized compound formation in Māori. LSA 2021 Annual Meeting.  
 
 ## CV
 * Post-Doctoral Fellow (Variationist Sociolinguistics Lab); _University of Toronto_ (2020-2021)
