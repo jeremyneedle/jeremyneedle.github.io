@@ -23,8 +23,10 @@ I am interested in how language changes over time and varies for individuals and
 
 ## Presentations  
 
+* J. M. Needle & S. A. Tagliamonte. Want to catch a change, love? Study vocatives! UK Language Variation and Change 13 (UKLVC), 2021.  
+* J. M. Needle & S. A. Tagliamonte. Honest to Pete! Honesty expressions in contemporary North American English. ICAME42, Technische Universität Dortmund, 2021.  
 * J. M. Needle & S. A. Tagliamonte. From buddy to dude to bro: Vocative change in Ontario English. North American Research Network in Historical Sociolinguistics (NARNiHS) 2021 Annual Meeting.  
-* J. Needle, S. Todd, J. King, & J. Hay. Overt speaker knowledge of reduplication patterns  in te reo Māori. LSA 2021 Annual Meeting.  
+* J. Needle, S. Todd, J. King, & J. Hay. Overt speaker knowledge of reduplication patterns in te reo Māori. LSA 2021 Annual Meeting.  
 * S. Todd, J. Needle, J. King, & J. Hay. Phonological influences on lexicalized compound formation in Māori. LSA 2021 Annual Meeting.  
 
 ## CV
