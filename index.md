@@ -23,7 +23,7 @@ I am interested in how language changes over time and varies for individuals and
 
 ## Presentations  
 
-* J. M. Needle & S. A. Tagliamonte. English vocatives in comparative perspective. New Wayes of Analyzing Variation 49 (NWAV), 2021.  
+* J. M. Needle & S. A. Tagliamonte. English vocatives in comparative perspective. New Ways of Analyzing Variation 49 (NWAV), 2021.  
 * J. M. Needle & S. A. Tagliamonte. Want to catch a change, love? Study vocatives! UK Language Variation and Change 13 (UKLVC), 2021.  
 * J. M. Needle & S. A. Tagliamonte. Honest to Pete! Honesty expressions in contemporary North American English. ICAME42, Technische Universität Dortmund, 2021.  
 * J. M. Needle & S. A. Tagliamonte. From buddy to dude to bro: Vocative change in Ontario English. North American Research Network in Historical Sociolinguistics (NARNiHS) 2021 Annual Meeting.  
