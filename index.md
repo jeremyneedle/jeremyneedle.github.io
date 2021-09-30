@@ -23,6 +23,7 @@ I am interested in how language changes over time and varies for individuals and
 
 ## Presentations  
 
+* B. Jankowski, J. M. Needle, & S. A. Tagliamonte. Is it a ‘camp’ or a ‘cottage’? The cultural evolution of a lexical item in Ontario. American Dialect Society 2022 Annual Meeting.  
 * J. M. Needle & S. A. Tagliamonte. English vocatives in comparative perspective. New Ways of Analyzing Variation 49 (NWAV), 2021.  
 * J. M. Needle & S. A. Tagliamonte. Want to catch a change, love? Study vocatives! UK Language Variation and Change 13 (UKLVC), 2021.  
 * J. M. Needle & S. A. Tagliamonte. Honest to Pete! Honesty expressions in contemporary North American English. ICAME42, Technische Universität Dortmund, 2021.  
