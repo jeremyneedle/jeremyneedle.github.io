@@ -12,7 +12,7 @@ Email: <jeremyneedle@gmail.com>
 Twitter: (at)JeremyNeedle
 
 ## Research
-I am interested in how language changes over time and varies for individuals and groups. My work deals with the mental lexicon, well-formedness, and word creation, taking into account people’s social experiences and intentions. My research on well-formedness probes how judgment arises from speakers’ experiences, how words and word-parts are represented in the mental lexicon, and how social information is integrated with these in memory. I have worked on English in the USA, UK, Canada, and in NZ; and on Māori in NZ. See more on [my GitHub page](https://github.com/jeremyneedle).
+I am interested in how language changes over time and varies for individuals and groups. My work deals with the mental lexicon, well-formedness, and word creation, taking into account people’s social experiences and intentions. My research on well-formedness probes how judgment arises from speakers’ experiences, how words and word-parts are represented in the mental lexicon, and how social information is integrated with these in memory. I have worked on English in the USA, UK, Canada, and in Aotearoa/New Zealand; and on Māori in Aotearoa/New Zealand. See more on [my GitHub page](https://github.com/jeremyneedle).
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=n9jbZNsAAAAJ&hl=en))
 * Y. Oh, S. Todd, C. Beckner, J. Hay, J. King & J. Needle. (2020). Non-Māori-speaking New Zealanders have a Māori proto-lexicon. Scientific Reports 10, 22318. https://doi.org/10.1038/s41598-020-78810-4  
