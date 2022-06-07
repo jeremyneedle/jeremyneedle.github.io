@@ -3,8 +3,8 @@ title: Jeremy Needle
 ---
 # Jeremy M. Needle
 <img src="./jeremy_lo-res.jpeg" style="width: 200px; float: right;" />  
-**Post-Doctoral Fellow**  
-_Department of Linguistics, University of Toronto_
+  
+
 
 ## Contact
 Office: (remote)  
@@ -14,15 +14,15 @@ Twitter: (at)JeremyNeedle
 ## Research
 I am interested in how language changes over time and varies for individuals and groups. My work deals with the mental lexicon, well-formedness, and word creation, taking into account people’s social experiences and intentions. My research on well-formedness probes how judgment arises from speakers’ experiences, how words and word-parts are represented in the mental lexicon, and how social information is integrated with these in memory. I have worked on English in the USA, UK, Canada, and in Aotearoa/New Zealand; and on Māori in Aotearoa/New Zealand. See more on [my GitHub page](https://github.com/jeremyneedle).
 
-## Publications ([Google Scholar](https://scholar.google.com/citations?user=n9jbZNsAAAAJ&hl=en))
+## Publications ([Google Scholar](https://scholar.google.com/citations?user=n9jbZNsAAAAJ&hl=en))  
+* Todd, S., Huang, A., Needle, J., Hay, J., & King, J. (2022). Unsupervised morphological segmentation in a language with reduplication. UC Santa Barbara. Retrieved from https://escholarship.org/uc/item/5cf017rd  
+* Needle, J. M., Pierrehumbert, J. B., & Hay, J. B. (2022). Phonotactic and Morphological Effects in the Acceptability of Pseudowords. In A. Sims, A. Ussishkin, J. Parker, & S. Wray (Eds.), Morphological Diversity and Linguistic Cognition. CUP. ([GitHub repo with dataset](https://github.com/jeremyneedle/NeedlePierrehumbertHay_Pseudowords))
 * Y. Oh, S. Todd, C. Beckner, J. Hay, J. King & J. Needle. (2020). Non-Māori-speaking New Zealanders have a Māori proto-lexicon. Scientific Reports 10, 22318. https://doi.org/10.1038/s41598-020-78810-4  
-* Needle, J. M., Pierrehumbert, J. B., & Hay, J. B. (in press). Shallow Morphological Processing in Pseudowords. In Andrea Sims & Adam Ussishkin (Eds.), _Proceedings of the 2017 Morphological Typology and Linguistic Cognition Workshop_. Cambridge University Press. ([Authors’ PDF](https://github.com/jeremyneedle/NeedlePierrehumbertHay_Pseudowords/blob/master/pseudowords_mtlc_share.pdf), [GitHub repo with dataset](https://github.com/jeremyneedle/NeedlePierrehumbertHay_Pseudowords))
 * Needle, J. M., & Pierrehumbert, J. B. (2018). Gendered associations of English morphology. _Laboratory Phonology: Journal of the Association for Laboratory Phonology, 9_(1), 14. http://doi.org/10.5334/labphon.134 ([Authors’ PDF](https://github.com/jeremyneedle/NeedlePierrehumbert2018_Gendered/blob/master/gender_decomp_inline-images.pdf), [GitHub repo with dataset](https://github.com/jeremyneedle/NeedlePierrehumbert2018_Gendered))
 * Rácz, P., Hay, J., Needle, J., King, J., & Pierrehumbert, J. B. (2016). Gradient Māori phonotactics. _Te Reo, 59,_ 3. ([Authors’ PDF](http://www.phon.ox.ac.uk/jpierrehumbert/publications/gradient_maori_phonotactics_te_reo.pdf))
 * Goldrick, M., Keshet, J., Gustafson, E., Heller, J., & Needle, J. (2016). Automatic analysis of slips of the tongue: Insights into the cognitive architecture of speech production. _Cognition, 149_, 31-39. https://doi.org/10.1016/j.cognition.2016.01.002 ([Authors’ PDF](http://faculty.wcas.northwestern.edu/matt-goldrick/v2/publications/pdfs/autovot.pdf))
 
 ## Presentations  
-
 * B. Jankowski, J. M. Needle, & S. A. Tagliamonte. Is it a ‘camp’ or a ‘cottage’? The cultural evolution of a lexical item in Ontario. American Dialect Society 2022 Annual Meeting.  
 * J. M. Needle & S. A. Tagliamonte. English vocatives in comparative perspective. New Ways of Analyzing Variation 49 (NWAV), 2021.  
 * J. M. Needle & S. A. Tagliamonte. Want to catch a change, love? Study vocatives! UK Language Variation and Change 13 (UKLVC), 2021.  
