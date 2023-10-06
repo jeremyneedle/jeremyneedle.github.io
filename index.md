@@ -9,7 +9,7 @@ title: Jeremy Needle
 ## Contact
 Office: (remote)  
 Email: <jeremyneedle@gmail.com>  
-Twitter: (at)JeremyNeedle
+Mastodon: <https://scholar.social/@JeremyNeedle>
 
 ## Research
 I am interested in how language changes over time and varies for individuals and groups. My work deals with the mental lexicon, well-formedness, and word creation, taking into account people’s social experiences and intentions. My research on well-formedness probes how judgment arises from speakers’ experiences, how words and word-parts are represented in the mental lexicon, and how social information is integrated with these in memory. I have worked on English in the USA, UK, Canada, and in Aotearoa/New Zealand; and on Māori in Aotearoa/New Zealand. See more on [my GitHub page](https://github.com/jeremyneedle).
